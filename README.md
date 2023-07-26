@@ -75,6 +75,4 @@ bg_color=#808080/>
 
 <br />
 
-------
-
-[Alfarizi Dwi Prasetyo](https://github.com/AlfariziDwiPrasetyo)
+-----
