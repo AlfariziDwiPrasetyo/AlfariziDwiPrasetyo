@@ -14,7 +14,7 @@
 - ❓ You can Email Me Through [Here](yoerdanatan@gmail.com)
 
 
-- ⚡ Fun fact: I'm Red Hair and  Mommy Supremacy 
+- ⚡ Fun fact: I believe in Red Hair and  Mommy Supremacy 
 
 
 <br/>  
