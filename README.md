@@ -21,11 +21,6 @@
 
 <br/>
 
-## Tech Stack
-
-<table align="center">
-<tr><td align="top" width="50%">
-
 <h3 align="center"> Skills </h3>
 <div align="center"> 
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -37,9 +32,11 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" 
 </div>
 
-</td></tr></table>
-
-<br/>  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ## Connect with me
