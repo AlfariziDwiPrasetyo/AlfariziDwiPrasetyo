@@ -8,7 +8,7 @@
 ### <div align="center">I'm a Student and a Shadow Dancer, revel in the beauty and solitude of the night, where magic and mystery converge in a symphony of cosmic enigmas. </div>
 
 
-- 🌱 I’m currently learning Flask and NodeJS
+- 🌱 I’m currently learning JS
 
 
 - ❓ You can Email Me Through [Here](yoerdanatan@gmail.com)
