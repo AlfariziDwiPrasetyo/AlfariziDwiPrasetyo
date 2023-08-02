@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning JS
 
 
-- ❓ You can Email Me Through [Here](yoerdanatan@gmail.com)
+- ❓ You can Message Me Through [Here](mailto:yoerdanatan@gmail.com)
 
 
 - ⚡ Fun fact: I believe in Red Hair and  Mommy Supremacy 
