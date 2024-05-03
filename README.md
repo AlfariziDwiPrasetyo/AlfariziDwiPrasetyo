@@ -26,6 +26,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
@@ -39,6 +40,22 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
+
+<br/>
+
+<h2>Wakatime</h2>
+
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript    16 hrs 13 mins  █████████████████████░░░░   83.53 %
+Java          1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+MDX           47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+CSS           26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+SQL           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
@@ -74,18 +91,6 @@
 </div>
 
 <br/>
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript    16 hrs 13 mins  █████████████████████░░░░   83.53 %
-Java          1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-MDX           47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-CSS           26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-SQL           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-```
-
-<!--END_SECTION:waka-->
 
 #
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31z4lkktokkzn7mi6vsmm2iuxwna&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31z4lkktokkzn7mi6vsmm2iuxwna&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)" /></div>  
