@@ -75,6 +75,11 @@
 
 <br/>
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
 #
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31z4lkktokkzn7mi6vsmm2iuxwna&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31z4lkktokkzn7mi6vsmm2iuxwna&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)" /></div>  
 
