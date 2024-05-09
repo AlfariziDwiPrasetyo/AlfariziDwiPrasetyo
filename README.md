@@ -57,6 +57,14 @@ Markdown      4 hrs 49 mins   ▓░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<br/>
+<br/>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlfariziDwiPrasetyo&theme=dark)](https://git.io/streak-stats)
+</div>
+
 
 
 </div>
