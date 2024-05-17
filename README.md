@@ -60,11 +60,6 @@ MDX          0 secs          ░░░░░░░░░░░░░░░░░
 <br/>
 <br/>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlfariziDwiPrasetyo&theme=dark)](https://git.io/streak-stats)
-</div>
-
 
 
 </div>
