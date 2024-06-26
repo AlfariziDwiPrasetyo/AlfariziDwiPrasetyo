@@ -48,8 +48,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   32 mins         █████████████████░░░░░░░░   68.03 %
-Solidity     15 mins         ████████░░░░░░░░░░░░░░░░░   31.97 %
+Python   55 mins         █████████████████▒░░░░░░░   69.23 %
+PHP      24 mins         ███████▓░░░░░░░░░░░░░░░░░   30.77 %
 ```
 
 <!--END_SECTION:waka-->
