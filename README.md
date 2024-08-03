@@ -5,16 +5,11 @@
   <img src="https://drive.google.com/uc?id=1eRv4eRzYOUebSP7kZUkOTF5RGGR4F68t" style="width:500px"/>
 </div>
 
-### <div align="center">I'm a Student and a Shadow Dancer, revel in the beauty and solitude of the night, where magic and mystery converge in a symphony of cosmic enigmas. </div>
-
 
 - 🌱 I’m currently learning JS
 
 
 - ❓ You can Message Me Through here : yoerdanatan@gmail.com
-
-
-- ⚡ Fun fact: I believe in Red Hair and  Mommy Supremacy 
 
 
 <br/>  
