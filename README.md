@@ -6,10 +6,11 @@
 </div>
 
 
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JavaScript and deepening my knowledge in JS-based frameworks.
 
+- 🚀 I’m passionate about building applications using Next.js, Node.js, and React.js.
 
-- ❓ You can Message Me Through here : yoerdanatan@gmail.com
+- ❓ Feel free to reach out to me via email: yoerdanatan@gmail.com
 
 
 <br/>  
