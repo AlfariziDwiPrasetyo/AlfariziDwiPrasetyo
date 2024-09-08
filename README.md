@@ -81,9 +81,12 @@ JavaScript   1 min           ▒░░░░░░░░░░░░░░░░
 <br/>
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
 <img src="https://media.tenor.com/BoeXEl62F6QAAAAC/surtr-arknights.gif" style="height:190px" />
+  
+<br/>
+<br/>
 
-<br/>
-<br/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z4lkktokkzn7mi6vsmm2iuxwna&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 </div>
