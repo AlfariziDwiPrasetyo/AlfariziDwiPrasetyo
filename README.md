@@ -6,9 +6,9 @@
 </div>
 
 
-- 🌱 Currently, I am diving into cloud computing, specifically with Google Cloud Platform (GCP), to broaden my expertise in deploying and managing scalable web applications in the cloud.
+- 🌱 Currently, I am diving into cloud computing, specifically with Google Cloud Platform (GCP)
 
-- 🚀 I’m passionate about building applications using Next.js, Node.js, and React.js.
+- 🚀 I’m passionate about building applications using Javascript Frameworks
 
 - ❓ Feel free to reach out to me via email: yoerdanatan@gmail.com
 
