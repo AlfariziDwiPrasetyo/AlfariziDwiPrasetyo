@@ -6,7 +6,7 @@
 </div>
 
 
-- 🌱 I’m currently learning JavaScript and deepening my knowledge in JS-based frameworks.
+- 🌱 Currently, I am diving into cloud computing, specifically with Google Cloud Platform (GCP), to broaden my expertise in deploying and managing scalable web applications in the cloud.
 
 - 🚀 I’m passionate about building applications using Next.js, Node.js, and React.js.
 
