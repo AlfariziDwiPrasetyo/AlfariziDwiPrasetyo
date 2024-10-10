@@ -44,9 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 mins          ███████████████████▒░░░░░   77.12 %
-Other        1 min           █████░░░░░░░░░░░░░░░░░░░░   20.08 %
-Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
