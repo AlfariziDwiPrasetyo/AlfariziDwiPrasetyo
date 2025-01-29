@@ -20,21 +20,21 @@
 ## Language
 <div align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,ts,php&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ## Framework
 <div align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=express,react,nextjs,flask&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,nextjs,flask,laravel&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ## Database
 <div align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,prisma&theme=dark)](https://skillicons.dev)
 
 </div>
 
