@@ -54,16 +54,10 @@ Docker                     33 mins         █░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<br/>
-<br/>
-
 
 
 </div>
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
