@@ -20,7 +20,7 @@
 ## Language
 <div align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,ts,php&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,ts,php,go&theme=dark)](https://skillicons.dev)
 
 </div>
 
