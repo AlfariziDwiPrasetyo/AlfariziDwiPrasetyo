@@ -45,11 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     5 hrs 21 mins   ██████████▓░░░░░░░░░░░░░░   42.32 %
-TypeScript     4 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   38.17 %
-Bash           1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-YAML           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-shell script   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+JavaScript     8 hrs 35 mins   █████████████▒░░░░░░░░░░░   53.59 %
+TypeScript     4 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.96 %
+Bash           1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+YAML           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+shell script   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
